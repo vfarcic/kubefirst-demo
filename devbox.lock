@@ -1,0 +1,149 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "k3d@5.7.3": {
+      "last_modified": "2024-08-18T12:44:29Z",
+      "resolved": "github:NixOS/nixpkgs/ff1c2669bbb4d0dd9e62cc94f0968cfa652ceec1#k3d",
+      "source": "devbox-search",
+      "version": "5.7.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/wamja3hqqa7phnmm7acc8zlzaw3xj0lb-k3d-5.7.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/wamja3hqqa7phnmm7acc8zlzaw3xj0lb-k3d-5.7.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/md0v9y9lkrj3sfh16d7ixp5h4zyr6m4r-k3d-5.7.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/md0v9y9lkrj3sfh16d7ixp5h4zyr6m4r-k3d-5.7.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/iacfdimnjjldqn5xrik55r4wmi34x4pf-k3d-5.7.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/iacfdimnjjldqn5xrik55r4wmi34x4pf-k3d-5.7.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vs4zlc8q4cj0vwsxg98pvadvh721g2h3-k3d-5.7.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vs4zlc8q4cj0vwsxg98pvadvh721g2h3-k3d-5.7.3"
+        }
+      }
+    },
+    "kubefirst@2.4.10": {
+      "last_modified": "2024-08-18T12:44:29Z",
+      "resolved": "github:NixOS/nixpkgs/ff1c2669bbb4d0dd9e62cc94f0968cfa652ceec1#kubefirst",
+      "source": "devbox-search",
+      "version": "2.4.10",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qlbqhl3dyz4245qvrh7yqs3wyjwbjxbr-kubefirst-2.4.10",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/qlbqhl3dyz4245qvrh7yqs3wyjwbjxbr-kubefirst-2.4.10"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/axlffpy9w682yrv9nz0ag4xk6myq3466-kubefirst-2.4.10",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/axlffpy9w682yrv9nz0ag4xk6myq3466-kubefirst-2.4.10"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/s4khn1zw08aq4qq2f1vf9zlkcdl0dgva-kubefirst-2.4.10",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/s4khn1zw08aq4qq2f1vf9zlkcdl0dgva-kubefirst-2.4.10"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gnj6d5hi4qcd4zgppxmmv7dl652yx7rg-kubefirst-2.4.10",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gnj6d5hi4qcd4zgppxmmv7dl652yx7rg-kubefirst-2.4.10"
+        }
+      }
+    },
+    "mkcert@1.4.4": {
+      "last_modified": "2024-08-18T12:44:29Z",
+      "resolved": "github:NixOS/nixpkgs/ff1c2669bbb4d0dd9e62cc94f0968cfa652ceec1#mkcert",
+      "source": "devbox-search",
+      "version": "1.4.4",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/mhkf5q1hjsmh62syw7ni57ikyw5f9m7s-mkcert-1.4.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/mhkf5q1hjsmh62syw7ni57ikyw5f9m7s-mkcert-1.4.4"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qq3dwkhwrs9mpmcjn28i5yhj4zxfcj99-mkcert-1.4.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/qq3dwkhwrs9mpmcjn28i5yhj4zxfcj99-mkcert-1.4.4"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/mg9g2yzcybhhrd7b2wv8r1kzczpfvpyg-mkcert-1.4.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/mg9g2yzcybhhrd7b2wv8r1kzczpfvpyg-mkcert-1.4.4"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/77g5yrzbnhyw24plyg0w1673cf4rvy7q-mkcert-1.4.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/77g5yrzbnhyw24plyg0w1673cf4rvy7q-mkcert-1.4.4"
+        }
+      }
+    }
+  }
+}
